@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Genisis</string>
+    <string name="title_news">News</string>
+    <string name="title_incubator">Incubator</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_fortuneteller">Forture Teller</string>
+</resources>
