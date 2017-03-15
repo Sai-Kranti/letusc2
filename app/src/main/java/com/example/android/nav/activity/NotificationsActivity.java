@@ -111,7 +111,7 @@ public class NotificationsActivity extends AppCompatActivity {
                     return true;
                 case R.id.navigation_incubator:
                     mTextMessage.setText(R.string.title_incubator);
-                    return true;
+                    return false;
                 case R.id.navigation_fortuneteller:
                     mTextMessage.setText(R.string.title_fortuneteller);
                     return true;
