@@ -4,4 +4,11 @@
     <string name="title_incubator">Incubator</string>
     <string name="title_notifications">Notifications</string>
     <string name="title_fortuneteller">Forture Teller</string>
+    <string name="slide_articles">Articles</string>
+    <string name="slide_blogs">Blogs</string>
+    <string name="slide_feed">Feed</string>
+    <string name="slide_governmentpolicies">Government Policies</string>
+    <string name="slide_growth">Growth</string>
+    <string name="slide_programs">Programs</string>
+
 </resources>
